@@ -6,6 +6,14 @@
 UNet segmentaion model for extracting core tumor.  
 We are still building the model.
 
+
+<div align="center">
+  <img src="https://github.com/AurelMR/IGR_Meso/blob/main/ezgif-1-8bd64597a4ed.gif"> 
+  <br>
+  <em align="center">Fig 1: Left: ground truth, Right: Prediction</em>
+  <br>
+</div>
+
 ![Alt Text](https://github.com/AurelMR/IGR_Meso/blob/main/ezgif-1-8bd64597a4ed.gif)  
 Left: ground truth, Right: Prediction  
 
